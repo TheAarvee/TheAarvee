@@ -1,9 +1,9 @@
 ![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/user-attachments/assets/9a2c8354-fa2e-4462-8403-6a41a042a4b6)
 
-## *Hey, I'm Ravivarman* 🦹🏼‍♂️
+## *Hey, I'm Ravivarman* 
 A mediocre student who’s hyped about coding, designing sick stuff, and building projects that spark innovations! 
 
-- 🔭 I’m currently working on **Ventor AI**
+- 🔭 I’m currently working on **OneDrop**
 
 - 📫 How to reach me **ravivarmanb05@gmail.com**
 
