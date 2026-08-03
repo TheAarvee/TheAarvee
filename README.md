@@ -20,7 +20,7 @@ npm install billion-dollar-startup
 ![badge](https://shieldcn.dev/github/TheAarvee/temprd-sdk/stars.svg?variant=ghost&size=xs&font=geist)
 
 >
-**Technical Skills**
+<!-- **Technical Skills**
 
 ![My Skills](https://skillicons.dev/icons?i=java,typescript,python,mysql,aws,googlecloud,firebase,vercel,postgresql,redis,supabase,postman,docker,git,github,nextjs,nodejs,npm,tailwindcss,vscode,figma)
 
