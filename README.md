@@ -6,10 +6,10 @@ I love building things on the internet.
 
 I spend most of my time turning my 3am ideas into software that actually works. Most of what I build lives somewhere between AI agents, developer tools, automation, and systems that can think, recover, and improve on their own.
 
- ```
+<!-- ```
 npm install billion-dollar-startup
 ```
-
+-->
 [![badge](https://shieldcn.dev/badge/@ravivarmanb-22c55e.svg?size=xs&theme=blue&font=geist&logo=ri%3AFaLinkedin&color=065eef)](https://www.linkedin.com/in/ravivarmanb/)
 [![badge](https://shieldcn.dev/badge/Blogs-22c55e.svg?size=xs&font=geist&logo=medium&color=292929)](https://medium.com/@ravivarmanb05)
 [![badge](https://shieldcn.dev/badge/Portfolio-22c55e.svg?size=xs&logo=ri%3AFaLink&color=000000)](https://aarvee.is-a.dev)
