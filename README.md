@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="header" src="https://shieldcn.dev/header/surface.svg?size=wide&amp;mode=dark&amp;font=geist&amp;border=false&amp;image=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5616AQF53AQ_gvQE5A%2Fprofile-displaybackgroundimage-shrink_350_1400%2FB56ZmVKpK8G0AY-%2F0%2F1759144224575%3Fe%3D1785369600%26v%3Dbeta%26t%3DstkIAx-gZjzfIO_Ggoa-PfRh-sXyZAxwf3BXrwLxVbk&amp;overlay=0" />
-</p>
+<img width="1000" height="300" alt="tumblr_owi25v6uAo1r4gsiio1_1280" src="https://github.com/user-attachments/assets/bce4d5a3-c995-4102-94fb-4a27323da1c6" />
 
 # Yo! I'm Ravivarman 🖖🏼
 
